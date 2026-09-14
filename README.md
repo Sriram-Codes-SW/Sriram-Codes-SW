@@ -6,7 +6,7 @@ Enterprise-level software engineer with 6 years of experience designing, scaling
 - **Backend Architecture:** Java, Spring Boot, Apache Kafka, OpenLiberty, Spring Data JPA
 - **Frontend Engineering:** Angular, TypeScript, JavaScript (ES6+), Component Architecture
 - **Databases & Search:** Oracle DB, MySQL, Elasticsearch, AWS DynamoDB
-- **DevOps & Infrastructure:** OpenShift container orchestration, Bash automation, CI/CD pipelines
+- **DevOps & Infrastructure:** OpenShift container orchestration, Bash automation, CI-CD pipelines
 
 ## 💼 Enterprise Track Record (Private Infrastructures)
 - Engineered and refactored **17+ core Java enterprise microservices** for high-volume banking transaction risk monitoring.
